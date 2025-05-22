@@ -8,3 +8,16 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+## 👨‍💻 About Me
+
+- 🔭 I’m currently working on Spring Boot and Flutter projects.
+- 🌱 I’m learning advanced backend development and microservices.
+- 👯 I’m looking to collaborate on open-source Java or Flutter projects.
+- ⚡ Fun fact: I love solving coding challenges and contributing to GitHub!
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rupesh-tripathi-b62583328/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rup.eshhh._)
+
