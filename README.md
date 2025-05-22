@@ -20,3 +20,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rupesh-tripathi-b62583328/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rup.eshhh._)
 
+## 📊 GitHub Stats
+
+![MyGitHub stats](https://github-readme-stats.vercel.app/api?username=rupeshhh007&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rupeshhh007&layout=compact)
+
