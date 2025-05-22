@@ -11,10 +11,8 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on Spring Boot and Flutter projects.
+- 🔭 Currently working on Full Stack projects.
 - 🌱 I’m learning advanced backend development and microservices.
-- 👯 I’m looking to collaborate on open-source Java or Flutter projects.
-- ⚡ Fun fact: I love solving coding challenges and contributing to GitHub!
 
 ## 📫 Connect with Me
 
