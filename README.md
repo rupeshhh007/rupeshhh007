@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on Full Stack projects.
+- 🔭 Working on Full Stack projects.
 - 🌱 I’m learning advanced backend development and microservices.
 
 ## 📫 Connect with Me
