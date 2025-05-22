@@ -12,6 +12,7 @@
 
 ## 👨‍💻 About Me
 
+- 🏫 B.Tech student at VIT Vellore (2024–2028)
 - 🔭 Working on Full Stack projects.
 - 🌱 I’m learning advanced backend development and microservices.
 
