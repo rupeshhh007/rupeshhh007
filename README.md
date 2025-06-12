@@ -1,10 +1,11 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rupeshhh007/rupeshhh007/blob/main/banner-dark.svg" width="600">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/rupeshhh007/rupeshhh007/blob/main/banner-light.svg" width="600">
-    <img src="https://github.com/rupeshhh007/rupeshhh007/blob/main/banner-dark.svg" width="600">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rupeshhh007/rupeshhh007/main/banner-dark.svg" width="600">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rupeshhh007/rupeshhh007/main/banner-light.svg" width="600">
+    <img src="https://raw.githubusercontent.com/rupeshhh007/rupeshhh007/main/banner-dark.svg" width="600">
   </picture>
 </p>
+
 
 # 💫 About Me
 
