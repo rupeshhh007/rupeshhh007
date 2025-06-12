@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rupesh Tripathi</h1>
-<h3 align="center">A passionate Full Stack Developer & Tech Enthusiast from India 🇮🇳</h3>
+<h3 align="center">A passionate Full Stack Developer & Tech Enthusiast.</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=B.Tech+@+VIT+Vellore+%282024–2028%29;Full+Stack+Developer;Backend+with+Spring+Boot+%26+Microservices;Learning+Cloud+%26+System+Design" alt="Typing SVG" />
