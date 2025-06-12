@@ -7,6 +7,7 @@
 </p>
 
 
+
 # 💫 About Me
 
 🎓 B.Tech CSE @ VIT Vellore (2024–2028)  
