@@ -13,7 +13,7 @@
 - 💼 Focused on **Full Stack**, **Backend Systems**, and **Cloud-ready Microservices**
 - 🌱 Currently diving deep into **Spring Boot**, **Kubernetes**, and **Scalable System Design**
 - 💬 Ask me about `Java`, `Spring`, `React`, `APIs`, `Mongo/Postgres`, or `CI/CD`
-- 📧 Reach me: **rupeshtripathi2006@gmail.com**
+- 📧 Reach me: **rupeshstripathi1234@gmail.com**
 - ☕ Fun Fact: I don't need therapy, I just need my code to compile.
 
 ---
