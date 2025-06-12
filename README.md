@@ -1,12 +1,3 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rupeshhh007/rupeshhh007/main/banner-dark.svg" width="600">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rupeshhh007/rupeshhh007/main/banner-light.svg" width="600">
-    <img src="https://raw.githubusercontent.com/rupeshhh007/rupeshhh007/main/banner-dark.svg" width="600">
-  </picture>
-</p>
-
-
 
 # 💫 About Me
 
@@ -80,12 +71,6 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" />
   </a>
 </p>
-
----
-
-## 🎯 Fun Fact
-
-> *"Consistency beats motivation. Stay curious, keep building, and let the code speak."* — 💻
 
 ---
 
