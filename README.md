@@ -59,10 +59,10 @@
 
 ---
 
-## 📈 Activity Graph
+## 📅 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rupeshhh007&theme=github-compact&hide_border=true&area=true" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rupeshhh007&theme=tokyo-night&area=true&hide_border=true&radius=10" width="90%" />
 </p>
 
 ---
