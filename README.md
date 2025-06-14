@@ -95,6 +95,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/rupeshhh007/rupeshhh007/blob/dist/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/rupeshhh007/rupeshhh007/main/dist/github-contribution-grid-snake.svg" />
 </p>
-
