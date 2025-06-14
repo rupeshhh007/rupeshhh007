@@ -1,4 +1,8 @@
-<h1 align="center">Rupesh Tripathi</h1>
+<h1 align="center">Hi, I'm Rupesh Tripathi</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Code.+Build.+Repeat.;Backend+Wizard+%7C+Java%2C+Spring+Boot;Crafting+clean+APIs+with+love+%26+coffee" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <strong>B.Tech CSE @ VIT Vellore (2024–2028)</strong><br/>
@@ -6,49 +10,29 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Code.+Build.+Repeat.;Backend+Wizard+%7C+Java%2C+Spring+Boot;Crafting+clean+APIs+with+love+%26+coffee" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="120" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" />
-  <strong style="font-size: 20px;">Hey there! Welcome to my digital garden 🌱</strong>
-</p>
+## About Me
+
+- Currently building scalable systems using **Java**, **Spring Boot**, and **Microservices**
+- Learning and experimenting with **Docker**, **Kubernetes**, and CI/CD workflows
+- Interested in backend architecture, clean code, and solving real-world problems
+- Reach me at: **rupeshstripathi1234@gmail.com**
 
 ---
 
-### 🛠️ What I'm Up To
+## Tech Stack
 
-- ⚙️ Diving deep into **Spring Boot**, **Java**, and **Docker**
-- 🧱 Building backends that scale (and don’t break!)
-- ☁️ Exploring **DevOps** tools like **Kubernetes**, **CI/CD**, and cloud deployment
-- 💡 Love solving real-world problems through code
-- 💬 Reach me at: **rupeshstripathi1234@gmail.com**
+| Languages | Backend / DB | Frontend | DevOps / Tools |
+|----------|---------------|----------|----------------|
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 
 ---
 
-### 🧰 Tech Stack Toolbox
-
-#### 💻 Languages  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-#### 🖼️ Frontend  
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
-
-#### 🔙 Backend & DevOps  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
----
-
-### 📊 GitHub Stats That Matter
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rupeshhh007&show_icons=true&theme=tokyonight&count_private=true&border_radius=12" width="47%" />
@@ -61,14 +45,15 @@
 
 ---
 
-### 🧠 Dev Card Preview
+## Contribution Highlights
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rupeshhh007/rupeshhh007/main/dist/github-contribution-grid-snake.svg" />
 </p>
+
 ---
 
-### 🏆 GitHub Trophies
+## Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rupeshhh007&theme=tokyonight&title=Commit,Repositories,Stars&no-bg=true&margin-w=10" />
@@ -76,7 +61,7 @@
 
 ---
 
-### 🌐 Let's Connect
+## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rupesh-tripathi-b62583328/">
@@ -93,4 +78,12 @@
   </a>
 </p>
 
+---
 
+## A Final Thought
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
+
+<p align="center"><em>"Programs must be written for people to read, and only incidentally for machines to execute." – Harold Abelson</em></p>
