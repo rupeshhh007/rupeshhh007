@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rupesh Tripathi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Code.+Build.+Repeat.;Backend+Wizard+%7C+Java%2C+Spring+Boot;Crafting+clean+APIs+with+love+%26+coffee" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Code.+Build.+Repeat.;Backend+Wizard+%7C+Java%2C+Spring+Boot;Crafting+clean+APIs+with+love+%26+coffee " alt="Typing SVG" />
 </p>
 
 <p align="center">
