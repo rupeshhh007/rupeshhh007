@@ -64,9 +64,8 @@
 ### 🧠 Dev Card Preview
 
 <p align="center">
-  <img src="https://github.com/rupeshhh007/rupeshhh007/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/rupeshhh007/rupeshhh007/main/dist/github-contribution-grid-snake.svg" />
 </p>
-
 ---
 
 ### 🏆 GitHub Trophies
@@ -94,6 +93,4 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rupeshhh007/rupeshhh007/main/dist/github-contribution-grid-snake.svg" />
-</p>
+
