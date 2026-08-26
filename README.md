@@ -1,59 +1,55 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:0E1117&height=200&section=header&text=Hi,%20I'm%20Rupesh%20Tripathi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Backend%20Architect&descAlignY=55&descAlign=50" />
+<!-- Futuristic Typing Header -->
+<a href="https://rupe5h.vercel.app/">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=55FF55&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello%22);;Initializing+Backend+Architecture...;Compiling+Machine+Learning+Models...;Hi,+I'm+Rupesh+Tripathi_&repeat=false" alt="Typing SVG" />
+</a>
 
-<a href="https://rupe5h.vercel.app/" target="_blank">Portfolio</a> • 
-<a href="https://www.linkedin.com/in/rupesh-tripathi-b62583328/" target="_blank">LinkedIn</a> • 
-<a href="mailto:rupeshstripathi1234@gmail.com">Email</a> 
+<p align="center">
+  <b>Backend Engineer | Distributed Systems | AI Integrations</b>
+</p>
 
-<br/>
-
-*“Programs must be written for people to read, and only incidentally for machines to execute.”*
-
----
-
-### 🚀 Featured Project: QuerySense AI
-**[Live Demo](https://query-sense-ai.streamlit.app/)** | **[API Docs](https://query-sense-ai.onrender.com/)** <br>
-> I built a Full-Stack Machine Learning application that parses raw SQL into Abstract Syntax Trees (ASTs) and predicts execution latency in milliseconds using **FastAPI, LightGBM, and PostgreSQL**. Integrated an Agentic LLM (Groq/Llama-3) to automatically rewrite and optimize bad queries.
-
----
-
-### 💻 Arsenal & Tech Stack
+<p align="center">
+  <a href="https://rupe5h.vercel.app/"><b>Portfolio</b></a> •
+  <a href="https://www.linkedin.com/in/rupesh-tripathi-b62583328/"><b>LinkedIn</b></a> •
+  <a href="mailto:rupeshstripathi1234@gmail.com"><b>Email</b></a>
+</p>
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,ts,react,next&perline=6" />
-<br>
-<img src="https://skillicons.dev/icons?i=postgres,docker,kubernetes,linux,githubactions,gcp&perline=6" />
-
----
-
-### 📊 GitHub Dashboard
-
-<table align="center" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=rupeshhh007&show_icons=true&theme=tokyonight&count_private=true&border_radius=12&hide_border=true&bg_color=0E1117&title_color=55FF55" width="400" />
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rupeshhh007&theme=tokyonight&border_radius=12&hide_border=true&background=0E1117&ring=55FF55&fire=55FF55&currStreakNum=ffffff" width="400" />
-    </td>
-  </tr>
-</table>
-
-<img src="https://raw.githubusercontent.com/rupeshhh007/rupeshhh007/main/dist/github-contribution-grid-snake-dark.svg" width="100%" />
-
----
-
-### 🎓 About Me
-- 🏫 **B.Tech CSE** @ VIT Vellore (2024–2028)
-- ⚙️ Currently diving deep into **Distributed Systems**, **Microservices architecture**, and **AI integrations**.
-- 💡 Always looking for open-source projects or challenging backend problems to solve.
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rupeshhh007&label=Profile%20Views&color=4CAF50&style=flat-square" />
 </div>
 
-</div>
+### ⚡ Featured Launch: QuerySense AI 
+> A production-grade **Machine Learning pipeline** bridging Compiler Theory and AI. It parses raw SQL into Abstract Syntax Trees (ASTs), predicts sub-millisecond execution latency via LightGBM, and utilizes an **Agentic LLM (Groq/Llama-3)** to automatically rewrite bottlenecked database queries.
+> 
+> 🔗 **[Try the Live Web App](https://query-sense-ai.streamlit.app/)** | ⚙️ **[View API Docs](https://query-sense-ai.onrender.com/)**
+
+<br>
+
+### 🛠️ Arsenal & Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,react,next,tailwind&theme=dark&perline=6" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,postgres,docker,kubernetes,linux,gcp&theme=dark&perline=6" />
+</p>
+
+<br>
+
+### 📊 Dev Analytics Dashboard
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rupeshhh007&show_icons=true&theme=tokyonight&count_private=true&border_radius=10" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rupeshhh007&theme=tokyonight&border_radius=10" alt="GitHub Streak" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupeshhh007&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" width="60%" />
+</p>
+
+<br>
+
+### 🚀 What I'm Building
+- 💻 **Currently studying:** B.Tech CSE @ VIT Vellore (2024–2028).
+- ⚙️ **Currently obsessing over:** Scalable backend architectures, Microservices with Spring Boot, and GenAI workflows.
+- 🤝 **Looking to collaborate on:** Open-source AI tools or high-performance backend systems.
