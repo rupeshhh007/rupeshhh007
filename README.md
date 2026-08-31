@@ -34,7 +34,7 @@
 
 ## About
 
-I'm **Rupesh Tripathi**, a Computer Science student at **VIT Vellore** focused on backend engineering, distributed systems, and practical AI integrations.
+I'm **Rupesh Tripathi**, a Computer Science pre-final year student at **VIT Vellore** focused on backend engineering, distributed systems, and practical AI integrations.
 
 I enjoy building systems where the interesting part is beneath the UI — APIs, concurrency, databases, caching, networking, system design, and the infrastructure connecting everything together.
 
