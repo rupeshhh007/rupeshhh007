@@ -20,17 +20,32 @@ CS @ VIT Vellore • Building reliable systems, APIs and products.
 
 ---
 
-## ⚔️ Featured Project — Wordle Arena
+## ⚔️ [Wordle Arena](https://wordle-arena-two.vercel.app/)
 
 **Competitive full-stack Wordle with Daily, Practice and ranked 1v1 Arena modes.**
 
-Built with a Spring Boot backend and Next.js frontend, with JWT auth, persistent game state, Elo ratings, leaderboards, stats and concurrency-safe Arena matches.
+Built with Spring Boot and Next.js, featuring JWT authentication, persistent game state, Elo ratings, leaderboards, player statistics and concurrency-safe Arena matches.
 
 <p align="center">
-  <img width="1425" height="746" alt="image" src="https://github.com/user-attachments/assets/663042d0-0b01-4f41-b533-c642dcbdd6c2" />
+  <img
+    src="https://github.com/user-attachments/assets/663042d0-0b01-4f41-b533-c642dcbdd6c2"
+    width="49%"
+    alt="Wordle Arena dashboard"
+  />
+  <img
+    src="https://github.com/user-attachments/assets/1ac4f804-647c-4b80-893b-6817d7cb81ae"
+    width="49%"
+    alt="Wordle Arena daily mode"
+  />
+</p>
 
-  <img width="1425" height="746" alt="image" src="https://github.com/user-attachments/assets/1ac4f804-647c-4b80-893b-6817d7cb81ae" />
-
+<p>
+  <a href="https://wordle-arena-two.vercel.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-238636?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/rupeshhh007/wordle-rupesh">
+    <img src="https://img.shields.io/badge/Source_Code-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 `Java 21` `Spring Boot` `PostgreSQL` `Next.js` `React` `TypeScript` `Tailwind`
@@ -64,7 +79,5 @@ Built with a Spring Boot backend and Next.js frontend, with JWT auth, persistent
 <div align="center">
 
 **Currently exploring distributed systems, backend architecture and scalable infrastructure.**
-
-<sub>Always building something.</sub>
 
 </div>
