@@ -27,8 +27,10 @@ CS @ VIT Vellore • Building reliable systems, APIs and products.
 Built with a Spring Boot backend and Next.js frontend, with JWT auth, persistent game state, Elo ratings, leaderboards, stats and concurrency-safe Arena matches.
 
 <p align="center">
-  <img src="./assets/wordle-arena-dashboard.webp" width="49%" />
-  <img src="./assets/wordle-arena-daily.webp" width="49%" />
+  <img width="1425" height="746" alt="image" src="https://github.com/user-attachments/assets/663042d0-0b01-4f41-b533-c642dcbdd6c2" />
+
+  <img width="1425" height="746" alt="image" src="https://github.com/user-attachments/assets/1ac4f804-647c-4b80-893b-6817d7cb81ae" />
+
 </p>
 
 `Java 21` `Spring Boot` `PostgreSQL` `Next.js` `React` `TypeScript` `Tailwind`
