@@ -52,6 +52,30 @@ Currently learning **distributed systems and agentic AI**. Most of my projects i
   <a href="https://wordle-arena-two.vercel.app/"><img src="https://img.shields.io/badge/PLAY_A_ROUND_%E2%86%97-E62429?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Play a round of Wordle Arena" /></a>
 </p>
 
+## 🌿 JanSetu — a clearer path to support
+
+<table>
+<tr>
+<td width="65%" valign="top">
+<p>A welfare discovery and preparation workspace: find source-linked schemes, understand recorded eligibility, prepare document checklists, and track local applications.</p>
+<ul>
+<li><b>Explainable eligibility:</b> one deterministic engine shared by matching, application checks, and guide answers.</li>
+<li><b>Audited tracking:</b> transactional review history, concurrent duplicate protection, and Flyway-managed PostgreSQL migrations.</li>
+<li><b>Grounded guide:</b> published-scheme retrieval, bounded follow-up context, and source-linked result cards.</li>
+</ul>
+<p><code>Java 21</code> <code>Spring Boot</code> <code>PostgreSQL</code> <code>Next.js</code> <code>TypeScript</code></p>
+<p><b>Verified:</b> 24 backend tests, frontend lint/type/build checks, and live PostgreSQL/API smoke checks.</p>
+<p><a href="https://github.com/rupeshhh007/JanSetu/tree/codex/citizen-workspace"><img src="https://img.shields.io/badge/EXPLORE_JANSETU-163D32?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore JanSetu source and screenshots" /></a></p>
+<p><a href="https://github.com/rupeshhh007/JanSetu/blob/codex/citizen-workspace/docs/ENGINEERING.md">Architecture &amp; engineering notes ↗</a></p>
+<p><sub>Runs locally. Tracking does not submit government applications; final requirements must be checked with the official department.</sub></p>
+</td>
+<td width="35%" valign="top" align="center">
+<a href="https://github.com/rupeshhh007/JanSetu/tree/codex/citizen-workspace#app-screenshots"><img src="./assets/jansetu-guide.jpg" alt="Real JanSetu Guide screen answering a PM-KISAN document question" width="260" /></a>
+<p><sub>Running app · synthetic demo data</sub></p>
+</td>
+</tr>
+</table>
+
 ## 🕸️ Across the project-verse
 
 <table>
