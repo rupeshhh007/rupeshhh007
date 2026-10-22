@@ -1,7 +1,7 @@
 <!-- Visual references: github.com/DenverCoder1/DenverCoder1 and github.com/abhisheknaiidu/abhisheknaiidu -->
 <p align="center">
   <img src="./assets/spider-header.svg" alt="Rupesh Tripathi — Spider-Man comic banner" width="100%" />
-</p> 
+</p>  
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=19&amp;pause=1400&amp;color=E62429&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Java+%26+Spring+Boot;APIs%2C+concurrency%2C+distributed+systems;Occasionally%2C+a+ranked+Wordle+match." alt="Java and Spring Boot. APIs, concurrency, distributed systems. Occasionally, a ranked Wordle match." width="85%" />
