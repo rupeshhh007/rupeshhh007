@@ -35,6 +35,44 @@ Currently learning **distributed systems and agentic AI**. Most of my projects i
 
 </details>
 
+## 🏢 Daftar — an AI engineering office
+
+<p align="center">
+  <a href="https://github.com/rupeshhh007/daftar">
+    <img src="https://raw.githubusercontent.com/rupeshhh007/daftar/main/docs/screenshots/landing_page.png" alt="Daftar landing page — an illustrated local-first AI workspace" width="92%" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Plan the work. Follow the agents. Keep control of the code.</strong>
+  <br />
+  A local-first engineering workspace with a living pixel-art office, project and mission dashboards, event timelines, and supervised AI coding workflows.
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,python,fastapi,postgres,docker&theme=dark" alt="Daftar technology stack: React, TypeScript, Vite, Tailwind, Python, FastAPI, PostgreSQL and Docker" />
+</p>
+
+<table>
+<tr>
+<td width="58%" valign="top">
+<h3>What I've built</h3>
+<ul>
+<li><b>Living office:</b> interactive isometric agent scene, movement, mini-map and status views.</li>
+<li><b>Mission backbone:</b> PostgreSQL-backed project and mission APIs, durable queued jobs and replayable server-sent events.</li>
+<li><b>Chat &amp; Build:</b> a local authorized ChatGPT-plan flow and supervised Codex coding sessions with isolated worktrees and reviewable diffs.</li>
+<li><b>Engineering boundaries:</b> migrations, generated API contracts, integration tests and explicit repository write approval.</li>
+</ul>
+<p><sub>Actively in development. Automated mission planning and some approval routes are not yet integrated on main; the README records the exact state.</sub></p>
+<p><a href="https://github.com/rupeshhh007/daftar"><img src="https://img.shields.io/badge/EXPLORE_DAFTAR-138B80?style=for-the-badge&logo=github&logoColor=white" alt="Explore Daftar repository" /></a> <a href="https://github.com/rupeshhh007/daftar/blob/main/docs/architecture.md">Architecture notes ↗</a></p>
+</td>
+<td width="42%" valign="top" align="center">
+<a href="https://github.com/rupeshhh007/daftar/blob/main/docs/screenshots/living_pixel_office.png"><img src="https://raw.githubusercontent.com/rupeshhh007/daftar/main/docs/screenshots/living_pixel_office.png" alt="Daftar living pixel office screenshot" width="100%" /></a>
+<p><sub>Actual project screenshot · local workspace</sub></p>
+</td>
+</tr>
+</table>
+
 ## 🎮 Wordle, with a competitive streak
 
 <p align="center">
