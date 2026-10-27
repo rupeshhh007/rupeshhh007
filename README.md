@@ -67,8 +67,8 @@ Currently learning **distributed systems and agentic AI**. Most of my projects i
 <p><a href="https://github.com/rupeshhh007/daftar"><img src="https://img.shields.io/badge/EXPLORE_DAFTAR-138B80?style=for-the-badge&logo=github&logoColor=white" alt="Explore Daftar repository" /></a> <a href="https://github.com/rupeshhh007/daftar/blob/main/docs/architecture.md">Architecture notes ↗</a></p>
 </td>
 <td width="42%" valign="top" align="center">
-<a href="https://github.com/rupeshhh007/daftar/blob/main/docs/screenshots/living_pixel_office.png"><img src="https://raw.githubusercontent.com/rupeshhh007/daftar/main/docs/screenshots/living_pixel_office.png" alt="Daftar living pixel office screenshot" width="100%" /></a>
-<p><sub>Actual project screenshot · local workspace</sub></p>
+<a href="https://github.com/rupeshhh007/daftar/blob/main/docs/evidence/04_projects_page_live_grounded.png"><img src="https://raw.githubusercontent.com/rupeshhh007/daftar/main/docs/evidence/04_projects_page_live_grounded.png" alt="Daftar projects workspace showing the project list and navigation" width="100%" /></a>
+<p><sub>Projects workspace · running application</sub></p>
 </td>
 </tr>
 </table>
